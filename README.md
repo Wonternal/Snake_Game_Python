@@ -45,7 +45,6 @@ He creado este videojuego tras completar dos certificados de Python en Udemy. Es
     ```bash
     python snake.py
     ```
-
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
+Este proyecto está bajo una Licencia Abierta.
